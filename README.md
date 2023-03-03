@@ -1,4 +1,4 @@
-# Cognitive Bias, the Game!
+# Cognitive Bias — The Game!
 
 A card game to teach cognitive bias 
 
